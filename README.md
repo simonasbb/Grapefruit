@@ -12,3 +12,5 @@ Record my data analysis project
 4:电商用户画像数据分析
 
 5:DC竞赛 - 《野蛮时代》手游用户氪金预测分析
+
+6:叮咚买菜 - APP商品经营指标预测
